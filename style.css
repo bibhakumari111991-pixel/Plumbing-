@@ -4,7 +4,7 @@ html{
 
 body{
   background-color: whitesmoke;
-  background-image: url("/ahhs.png");
+  background-image: url("ahhs.png");
   background-size:  40%;
   background-position: 90% 90%;
   background-repeat: no-repeat;
